@@ -43,6 +43,8 @@ The final Tableau visualization presents:
 - Optimized layout to highlight network structure
 - Thematic design inspired by Brazilian June festivals
 
+![Network Visualization Demo](SEU_LINK_DO_GIF_AQUI)
+
 ## 💡 Learning Outcomes
 
 This project demonstrates how network analysis can be applied creatively, combining musical inspiration with data visualization. It was a unique opportunity to connect Chico Buarque's poetry with modern data science techniques, transforming art into visual insights. Additionally, it was an opportunity to practice:
@@ -55,4 +57,4 @@ This project demonstrates how network analysis can be applied creatively, combin
 
 ---
 
-*This project celebrates Brazilian cultural richness through the lens of dataviz,*
+*This project celebrates Brazilian cultural richness through the lens of dataviz.*
