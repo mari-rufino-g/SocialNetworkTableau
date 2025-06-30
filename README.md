@@ -43,7 +43,7 @@ The final Tableau visualization presents:
 - Optimized layout to highlight network structure
 - Thematic design inspired by Brazilian June festivals
 
-![Network Visualization Demo]([https://github.com/mari-rufino-g/SocialNetworkTableau/blob/main/dash.gif])
+![Network Visualization Demo](https://github.com/mari-rufino-g/SocialNetworkTableau/blob/main/dash.gif)
 
 ## 💡 Learning Outcomes
 
